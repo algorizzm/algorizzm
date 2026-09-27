@@ -65,4 +65,4 @@
 
 ---
 
-> If I don't know how to do it yet, I'll figure it out.
+If I don't know how to do it yet, I'll figure it out. ᐠ( ᐛ )ᐟ
