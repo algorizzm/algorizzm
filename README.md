@@ -1,6 +1,6 @@
 # Hey! 🤘
 
-**IT Student | Software Developer | Professional "I'll figure it out" person **
+**IT Student | Software Developer | Professional "I'll figure it out" person**
 
 **4TH YR BS Information Technology @ University of Cebu - Banilad**
 
@@ -24,7 +24,10 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+     alt="C"
+     width="50"
+     height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
   &nbsp;
