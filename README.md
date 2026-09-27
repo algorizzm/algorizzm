@@ -1,8 +1,8 @@
 # Hey! 🤘
 
-**IT Student 🎓 | Software Developer 💻 | Professional "I'll figure it out" person 🧠**
+**IT Student | Software Developer | Professional "I'll figure it out" person **
 
-**BS Information Technology @ University of Cebu - Banilad**
+**4TH YR BS Information Technology @ University of Cebu - Banilad**
 
 - 💻 I like building **web apps, backend systems, and IoT projects**
 - 🤖 Currently tearing up any junk I can find for **spare parts**
@@ -13,9 +13,6 @@
 
 <h3>🧰 Toolbox</h3>
 
-<h3>🧰 Toolbox</h3>
-
-<!-- Programming Languages -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   &nbsp;
@@ -27,14 +24,13 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
 </p>
 
-<!-- Web & Mobile -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   &nbsp;
@@ -51,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android SDK" width="50" height="50"/>
 </p>
 
-<!-- Databases & Backend -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   &nbsp;
@@ -66,11 +61,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="REST APIs" width="50" height="50"/>
 </p>
 
-<!-- Tools & Platforms -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50"/>
   &nbsp;
@@ -79,6 +71,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino IDE" width="50" height="50"/>
 </p>
 
 ---
