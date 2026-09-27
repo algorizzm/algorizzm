@@ -1,4 +1,4 @@
-# Hey! 🤘
+# Hey 🤘
 
 **IT Student | Software Developer | Tinkerer**
 
