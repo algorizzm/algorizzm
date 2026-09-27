@@ -1,14 +1,14 @@
-# Hello there 👋
+# Hey! 🤘
 
 **IT Student 🎓 | Software Developer 💻 | Professional "I'll figure it out" person 🧠**
 
 **BS Information Technology @ University of Cebu - Banilad**
 
 - 💻 I like building **web apps, backend systems, and IoT projects**
-- 🧺 Currently building a **POS system for my family's laundry business**
-- 🤖 Currently messing around with **ESP32, GPS, 4G LTE & Firebase**
-- 🎮 I like **games, esports, and figuring out how things work**
-- 🏋️ Outside the screen, I'm probably **at the gym**
+- 🤖 Currently tearing up any junk I can find for **spare parts**
+- 🎮 I like **games, movies, sports and figuring out how things work**
+- 🧪 I **LOVE** Science, Math and learning **anything, anywhere, all the time**
+- 🏋️ Outside the screen, I'm probably **chasing that daredevil physique**
 - 📚 Currently learning how to build software that **people actually use**
 
 <h3>🧰 Toolbox</h3>
