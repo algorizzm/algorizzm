@@ -1,6 +1,6 @@
 # Hey! 🤘
 
-**IT Student | Software Developer | Tinkerer | Daredevil Fanboy**
+**IT Student | Software Developer | Tinkerer**
 
 **4th Yr BS Information Technology @ University of Cebu - Banilad**
 
