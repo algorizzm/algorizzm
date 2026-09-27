@@ -2,7 +2,7 @@
 
 **IT Student | Software Developer | Professional "I'll figure it out" person**
 
-**4TH YR BS Information Technology @ University of Cebu - Banilad**
+**4th Yr BS Information Technology @ University of Cebu - Banilad**
 
 - 💻 I like building **web apps, backend systems, and IoT projects**
 - 🤖 Currently tearing up any junk I can find for **spare parts**
@@ -24,10 +24,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-     alt="C"
-     width="50"
-     height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
   &nbsp;
